@@ -1,0 +1,72 @@
+body {
+
+ background-image: url("");
+
+  background-color: #C8DEF4;
+font-size: 14px;
+}
+
+.btn{
+
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+
+}
+
+.button{
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+
+}
+button{
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+}
+
+.card-header{
+background-color: #C2C8D1; 
+box-shadow: 0 2px 5px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.19); 
+border-radius: 5px;
+font-size: 16px;
+}
+
+.card{
+border-radius: 12px;}
+
+
+.card-body{
+  box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+thead { 
+  background-color:#8D95C2;
+   border-radius: 20px;
+ }
+
+
+ input
+ {
+  box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+
+ textarea{
+  box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+ }
+
+select{
+  box-shadow: 0 5px 20px 0 rgba(0,0,0,0.1), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+
+}
+
+footer{
+  margin-bottom: -50;
+}
+
+label
+{
+
+font-size: 14px;
+}
